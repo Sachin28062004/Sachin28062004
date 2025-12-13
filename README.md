@@ -46,7 +46,7 @@ Jira integration, Agile practices, and GenAI for QA.
 
 <p>
 📄 Resume:
-<a href="https://drive.google.com/file/d/1gru47NXFeRGyGbQbQ1YlhQJSU8hQaMaj/view?usp=drive_link" target="_blank">
+<a href="https://drive.google.com/file/d/1tLqpD4asgqZYNXl6O6HxXCvqobVG_0A2/view?usp=drive_link" target="_blank">
 View Resume
 </a>
 </p>
