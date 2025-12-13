@@ -1,113 +1,113 @@
-👋 Hi, I’m Sachin Savale
-
-🚀 Software Development Engineer | Automation QA Engineer | GenAI Enthusiast
-
-I am a passionate engineer with hands-on experience in backend development, frontend development, and end-to-end test automation. I enjoy building scalable systems, improving software quality, and leveraging Generative AI to solve real-world engineering and QA problems.
-
-🧑‍💻 About Me
-
-💻 Backend experience with Java (Spring Boot) and Python (FastAPI)
-
-🎨 Frontend development using React and Angular
-
-🧪 Strong expertise in Cypress for end-to-end UI automation and API mocking
-
-🤖 Building AI-powered QA tools using Generative AI
-
-🛠 Comfortable with GitHub and Bitbucket workflows
-
-🔁 Experienced in Agile/Scrum practices (Sprint Planning, Daily Standups, Retrospectives, Demos)
-
-🎯 Actively preparing for SDE and Automation QA roles
-
-🚀 Featured Project
-🧠 AI-Powered Test Scenario Generator
-
-FastAPI | SQLAlchemy | Angular | GenAI | Jira API
-
-An end-to-end AI-driven web application that helps QA teams generate test scenarios early in the development cycle.
-
-Key Features:
-
-🔗 Fetches Jira ticket descriptions using Jira REST APIs
-
-🤖 Generates test scenarios using GenAI Flash 2.5
-
-📊 Outputs editable Excel files for QA teams
-
-✏️ Allows users to edit, delete, or add scenarios before export
-
-🗄 Backend built with FastAPI + SQLAlchemy
-
-🎨 Frontend built using Angular
-
-🔮 Designed for future RAG (Retrieval-Augmented Generation) integration
-
-Status: Actively developed (deployment and RAG integration planned)
-
-🛠 Tech Stack
-Backend
-
-Java, Spring Boot
-
-Python, FastAPI
-
-REST APIs
-
-SQLAlchemy
-
-Frontend
-
-React
-
-Angular
-
-HTML, CSS, JavaScript, TypeScript
-
-Automation & QA
-
-Cypress (E2E Testing)
-
-UI Component Testing
-
-API Testing & Mocking
-
-Sanity & Regression Testing
-
-AI & GenAI
-
-Generative AI
-
-LLM Integration
-
-Prompt Engineering
-
-RAG (Planned)
-
-Tools & Practices
-
-Git, GitHub, Bitbucket
-
-Jira
-
-Agile / Scrum
-
-CI-friendly Test Design
-
-📌 What I’m Currently Working On
-
-Enhancing my AI Test Scenario Generator
-
-Exploring RAG architectures for better GenAI outputs
-
-Improving automation framework scalability
-
-Preparing for product-based SDE & Automation QA interviews
-
-🤝 Let’s Connect
-
-💼 LinkedIn: (Add your LinkedIn URL)
-
-📧 Email: (Optional)
-
-🌐 GitHub: You’re already here 😄
+{
+  "version": "1.0.0",
+  "exportedAt": "2025-12-13T11:42:13.942Z",
+  "profile": {
+    "title": "Sachin Savale",
+    "subtitle": "Software Development Engineer | Automation QA Engineer | GenAI Enthusiast",
+    "currentWork": "An AI-powered end-to-end test scenario generator using FastAPI, Angular, GenAI, and Jira integration.",
+    "currentLearn": "Advanced system design, RAG (Retrieval-Augmented Generation), scalable automation frameworks, and cloud deployment.",
+    "collaborateOn": "Backend development projects, test automation frameworks, and GenAI-powered developer/QA tools.",
+    "helpWith": "Optimizing GenAI outputs using RAG and deploying FastAPI applications at scale.",
+    "ama": "Java Spring Boot, FastAPI, Cypress automation, UI/API testing, Jira integration, Agile practices, and GenAI for QA.",
+    "contact": "sachinsavale1015@gmail.com",
+    "funFact": "I enjoy combining development, automation testing, and AI to solve real-world engineering problems.",
+    "visitorsBadge": true,
+    "badgeStyle": "flat",
+    "badgeColor": "0e75b6",
+    "badgeLabel": "Profile views",
+    "githubProfileTrophy": false,
+    "githubStats": false,
+    "githubStatsOptions": {
+      "theme": "",
+      "titleColor": "",
+      "textColor": "",
+      "bgColor": "",
+      "hideBorder": false,
+      "cacheSeconds": null,
+      "locale": "en"
+    },
+    "topLanguages": false,
+    "topLanguagesOptions": {
+      "theme": "",
+      "titleColor": "",
+      "textColor": "",
+      "bgColor": "",
+      "hideBorder": false,
+      "cacheSeconds": null,
+      "locale": "en"
+    },
+    "streakStats": false,
+    "streakStatsOptions": {
+      "theme": ""
+    },
+    "devDynamicBlogs": false,
+    "mediumDynamicBlogs": false,
+    "rssDynamicBlogs": false
+  },
+  "links": {
+    "currentWork": "",
+    "collaborateOn": "",
+    "helpWith": "",
+    "portfolio": "",
+    "blog": "",
+    "resume": "https://drive.google.com/file/d/1gru47NXFeRGyGbQbQ1YlhQJSU8hQaMaj/view?usp=drive_link"
+  },
+  "social": {
+    "github": "Sachin28062004",
+    "dev": "",
+    "linkedin": "Sachin Savale",
+    "codepen": "",
+    "stackoverflow": "",
+    "kaggle": "",
+    "codesandbox": "",
+    "fb": "",
+    "instagram": "",
+    "twitter": "",
+    "dribbble": "",
+    "behance": "",
+    "medium": "",
+    "youtube": "",
+    "codechef": "",
+    "hackerrank": "",
+    "codeforces": "",
+    "leetcode": "",
+    "topcoder": "",
+    "hackerearth": "",
+    "geeks_for_geeks": "",
+    "discord": "",
+    "rssurl": "",
+    "twitterBadge": false
+  },
+  "support": {
+    "buyMeACoffee": ""
+  },
+  "skills": [
+    "angular",
+    "angularjs",
+    "aws",
+    "css3",
+    "cypress",
+    "docker",
+    "fastapi",
+    "git",
+    "html5",
+    "java",
+    "javascript",
+    "keras",
+    "linux",
+    "mongodb",
+    "mysql",
+    "numpy",
+    "opencv",
+    "pandas",
+    "postgresql",
+    "postman",
+    "python",
+    "pytorch",
+    "react",
+    "scikit_learn",
+    "spring",
+    "tensorflow",
+    "typescript"
+  ]
+}
