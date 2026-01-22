@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sachin Savale</h1>
 <h3 align="center">
-Software Development Engineer | Automation QA Engineer | GenAI Enthusiast
+Java Full Stack Developer | Automation QA Engineer | GenAI Enthusiast
 </h3>
 
 <p align="center">
@@ -9,26 +9,59 @@ Software Development Engineer | Automation QA Engineer | GenAI Enthusiast
 
 <hr/>
 
+<h3>🚀 Featured Project</h3>
+
+<p>
+<b>1. AI-Powered Test Scenario Generator</b>
+<a href="https://github.com/Sachin28062004/AI-Test-Scenario-Generator" target="_blank">
+  [Repository Link]
+</a><br/>
+FastAPI | SQLAlchemy | Angular | GenAI Flash 2.5 | Jira API
+</p>
+
+<ul>
+  <li>Fetches Jira ticket descriptions using Jira REST APIs</li>
+  <li>Generates editable Excel-based test scenarios using GenAI</li>
+  <li>Allows users to edit, delete, and add scenarios before export</li>
+  <li>Designed for future RAG integration</li>
+</ul>
+
+<p><i>Status: Actively developed (deployment planned)</i></p>
+
+<p>
+<b>2. React-Based Movies Website</b>
+  <b>
+  <a href="https://github.com/Sachin28062004/MoviesHdWeb" target="_blank">
+    [Repository Link]
+  </a>
+  </b><br/>
+React.js | JavaScript (ES6) | TMDB API | CSS / Tailwind / Bootstrap
+</p>
+
+<ul>
+  <li>Displays latest and popular movies using The Movie Database (TMDB) API</li>
+  <li>Allows users to add movies to and remove movies from favorites</li>
+  <li>Implements a responsive user interface for multiple screen sizes</li>
+  <li>Fetches and manages movie data using external REST APIs</li>
+</ul>
+
+<p><i>Status: Development completed (repository available)</i></p>
+
+<hr/>
+
 <h3>🔭 Currently Working On</h3>
 <p>
-1. Developing a <b>Task Manager backend application</b> using
+Developing a <b>Task Manager backend application</b> using
 <b>Spring Boot</b>, focusing on RESTful APIs, database integration,
 authentication, and backend architecture.
 <b>
   <a href="https://github.com/Sachin28062004/taskmanager" target="_blank">
-    Repository Link
-  </a>
-</b>
-<br /><br />
-
-2. Completed development of a <b>React-based Movie Website</b>.
-<b>
-  <a href="https://github.com/Sachin28062004/MoviesHdWeb" target="_blank">
-    Repository Link
+    [Repository Link]
   </a>
 </b>
 </p>
 
+<hr/>
 
 <h3>🌱 Currently Learning</h3>
 <p>
@@ -38,6 +71,8 @@ REST API best practices, database optimization,
 and production-ready deployment strategies.
 </p>
 
+<hr/>
+
 <h3>👯 Looking to Collaborate On</h3>
 <p>
 Backend development projects using <b>Spring Boot</b>,
@@ -46,6 +81,8 @@ and real-world projects that emphasize clean architecture
 and scalability.
 </p>
 
+<hr/>
+
 <h3>🤝 Looking for Help With</h3>
 <p>
 Deploying and scaling <b>Spring Boot</b> applications,
@@ -53,11 +90,15 @@ improving backend performance,
 and applying best practices for secure, maintainable APIs.
 </p>
 
+<hr/>
+
 <h3>💬 Ask Me About</h3>
 <p>
 Java Spring Boot, FastAPI, Cypress automation, UI & API testing,
 Jira integration, Agile practices, and GenAI for QA.
 </p>
+
+<hr/>
 
 <h3>📫 How to Reach Me</h3>
 <p>
@@ -70,6 +111,8 @@ Jira integration, Agile practices, and GenAI for QA.
 View Resume
 </a>
 </p>
+
+<hr/>
 
 <h3>⚡ Fun Fact</h3>
 <p>
@@ -97,24 +140,6 @@ to solve real-world engineering problems.
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
-
-<hr/>
-
-<h3>🚀 Featured Project</h3>
-
-<p>
-<b>AI-Powered Test Scenario Generator</b><br/>
-FastAPI | SQLAlchemy | Angular | GenAI Flash 2.5 | Jira API
-</p>
-
-<ul>
-  <li>Fetches Jira ticket descriptions using Jira REST APIs</li>
-  <li>Generates editable Excel-based test scenarios using GenAI</li>
-  <li>Allows users to edit, delete, and add scenarios before export</li>
-  <li>Designed for future RAG integration</li>
-</ul>
-
-<p><i>Status: Actively developed (deployment planned)</i></p>
 
 <hr/>
 
