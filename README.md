@@ -13,16 +13,14 @@ Software Development Engineer | Automation QA Engineer | GenAI Enthusiast
 <p>
 Developing a <b>Task Manager backend application</b> using
 <b>Spring Boot</b>, focusing on RESTful APIs, database integration,
-authentication, and scalable backend architecture.
+authentication, and scalable backend architecture. <b>[repository link](https://github.com/Sachin28062004/taskmanager)</b>
 <br /><br />
-Completed development of a <b>React-based Movie Website</b>.
-The source code and live details for this project are available
-via the <b>repository link</b> in my Projects section.
-</p>
+Completed development of a <b>React-based Movie Website</b>. <b>[repository link](https://github.com/Sachin28062004/MoviesHdWeb)</b>
 
 <h3>🌱 Currently Learning</h3>
 <p>
-Advanced <b>Spring Boot</b> concepts, backend system design,
+Java and Spring Boot backend development,
+React for frontend applications, backend system design,
 REST API best practices, database optimization,
 and production-ready deployment strategies.
 </p>
