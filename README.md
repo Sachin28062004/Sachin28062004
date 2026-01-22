@@ -11,26 +11,35 @@ Software Development Engineer | Automation QA Engineer | GenAI Enthusiast
 
 <h3>🔭 Currently Working On</h3>
 <p>
-An <b>AI-powered end-to-end test scenario generator</b> using
-<b>FastAPI, Angular, Generative AI, and Jira integration</b>.
+Developing a <b>Task Manager backend application</b> using
+<b>Spring Boot</b>, focusing on RESTful APIs, database integration,
+authentication, and scalable backend architecture.
+<br /><br />
+Completed development of a <b>React-based Movie Website</b>.
+The source code and live details for this project are available
+via the <b>repository link</b> in my Projects section.
 </p>
 
 <h3>🌱 Currently Learning</h3>
 <p>
-Advanced system design, RAG (Retrieval-Augmented Generation),
-scalable automation frameworks, and cloud deployment.
+Advanced <b>Spring Boot</b> concepts, backend system design,
+REST API best practices, database optimization,
+and production-ready deployment strategies.
 </p>
 
 <h3>👯 Looking to Collaborate On</h3>
 <p>
-Backend development projects, test automation frameworks,
-and GenAI-powered developer/QA tools.
+Backend development projects using <b>Spring Boot</b>,
+full-stack applications with <b>React</b>,
+and real-world projects that emphasize clean architecture
+and scalability.
 </p>
 
 <h3>🤝 Looking for Help With</h3>
 <p>
-Optimizing GenAI outputs using RAG and deploying FastAPI
-applications at scale.
+Deploying and scaling <b>Spring Boot</b> applications,
+improving backend performance,
+and applying best practices for secure, maintainable APIs.
 </p>
 
 <h3>💬 Ask Me About</h3>
