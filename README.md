@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sachin Savale</h1>
+<h1 align="center">Hi , I'm Sachin Savale</h1>
 <h3 align="center">
 Java Full Stack Developer | Automation QA Engineer | GenAI Enthusiast
 </h3>
@@ -9,13 +9,16 @@ Java Full Stack Developer | Automation QA Engineer | GenAI Enthusiast
 
 <hr/>
 
-<h3>🚀 Featured Project</h3>
+<h3>Featured Project</h3>
 
 <p>
   <b>1. RepoLens AI - AI-Powered Code Reviewer & Bug Explainer</b>
-  <a href="https://github.com/your-username/repolens.ai" target="_blank">
+  <a href="https://github.com/Sachin28062004/repolens.ai" target="_blank">
     [Repository Link]
   </a><br />
+  <a href="https://repolens-ai-frontend.onrender.com/" target="_blank">
+    [project Live]
+  </a><br />r
   Spring Boot | React | JWT Auth | GitHub API | Groq API | PostgreSQL
 </p>
 
@@ -27,46 +30,30 @@ Java Full Stack Developer | Automation QA Engineer | GenAI Enthusiast
 </ul>
 
 <p><i>Status: Development completed (repository available)</i></p>
-<p><a href="https://drive.google.com/file/d/1tLqpD4asgqZYNXl6O6HxXCvqobVG_0A2/view?usp=drive_link" target="_blank">
-[Live]
-</a></p>
 
 <p>
-<b>2. React-Based Movies Website</b>
+  <b>2. MealLens AI - AI-Powered Meal Nutrition Analyzer</b>
   <b>
-  <a href="https://github.com/Sachin28062004/MoviesHdWeb" target="_blank">
-    [Repository Link]
-  </a>
+    <a href="https://github.com/Sachin28062004/meallens.ai" target="_blank">
+      [Repository Link]
+    </a>
   </b><br/>
-React.js | JavaScript (ES6) | TMDB API | CSS / Tailwind / Bootstrap
+  React.js | TypeScript | Node.js | Express | Groq API | USDA FoodData Central API | CSS
 </p>
 
 <ul>
-  <li>Displays latest and popular movies using The Movie Database (TMDB) API</li>
-  <li>Allows users to add movies to and remove movies from favorites</li>
-  <li>Implements a responsive user interface for multiple screen sizes</li>
-  <li>Fetches and manages movie data using external REST APIs</li>
+  <li>Uploads a meal photo and analyzes the visible food items using AI vision</li>
+  <li>Estimates portion sizes and generates calorie, macro, and micronutrient insights</li>
+  <li>Matches detected foods with USDA FoodData Central for nutrition enrichment</li>
+  <li>Provides an item-by-item meal breakdown with totals for calories, protein, carbs, fats, fiber, sugar, and key vitamins/minerals</li>
+  <li>Implements a responsive full-stack interface for mobile and desktop users</li>
 </ul>
 
 <p><i>Status: Development completed (repository available)</i></p>
 
 <hr/>
 
-<h3>🔭 Currently Working On</h3>
-<p>
-Developing a <b>Task Manager backend application</b> using
-<b>Spring Boot</b>, focusing on RESTful APIs, database integration,
-authentication, and backend architecture.
-<b>
-  <a href="https://github.com/Sachin28062004/taskmanager" target="_blank">
-    [Repository Link]
-  </a>
-</b>
-</p>
-
-<hr/>
-
-<h3>🌱 Currently Learning</h3>
+<h3>Currently Learning</h3>
 <p>
 Java and Spring Boot backend development,
 React for frontend applications, backend system design,
@@ -76,7 +63,7 @@ and production-ready deployment strategies.
 
 <hr/>
 
-<h3>👯 Looking to Collaborate On</h3>
+<h3>Looking to Collaborate On</h3>
 <p>
 Backend development projects using <b>Spring Boot</b>,
 full-stack applications with <b>React</b>,
@@ -86,7 +73,7 @@ and scalability.
 
 <hr/>
 
-<h3>🤝 Looking for Help With</h3>
+<h3>Looking for Help With</h3>
 <p>
 Deploying and scaling <b>Spring Boot</b> applications,
 improving backend performance,
@@ -95,7 +82,7 @@ and applying best practices for secure, maintainable APIs.
 
 <hr/>
 
-<h3>💬 Ask Me About</h3>
+<h3>Ask Me About</h3>
 <p>
 Java Spring Boot, FastAPI, Cypress automation, UI & API testing,
 Jira integration, Agile practices, and GenAI for QA.
@@ -103,13 +90,13 @@ Jira integration, Agile practices, and GenAI for QA.
 
 <hr/>
 
-<h3>📫 How to Reach Me</h3>
+<h3>How to Reach Me</h3>
 <p>
-📧 Email: <a href="mailto:sachinsavale1015@gmail.com">sachinsavale1015@gmail.com</a>
+Email: <a href="mailto:sachinsavale1015@gmail.com">sachinsavale1015@gmail.com</a>
 </p>
 
 <p>
-📄 Resume:
+Resume:
 <a href="https://drive.google.com/file/d/1tLqpD4asgqZYNXl6O6HxXCvqobVG_0A2/view?usp=drive_link" target="_blank">
 View Resume
 </a>
@@ -117,7 +104,7 @@ View Resume
 
 <hr/>
 
-<h3>⚡ Fun Fact</h3>
+<h3>Fun Fact</h3>
 <p>
 I enjoy combining development, automation testing, and AI
 to solve real-world engineering problems.
@@ -125,7 +112,7 @@ to solve real-world engineering problems.
 
 <hr/>
 
-<h3>🛠️ Languages & Tools</h3>
+<h3>Languages & Tools</h3>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,html,css,angular,react,spring,fastapi,cypress,git,docker,aws,linux,mysql,postgresql,mongodb,postman,tensorflow,pytorch,opencv,numpy,pandas,scikitlearn&perline=8" />
@@ -133,7 +120,7 @@ to solve real-world engineering problems.
 
 <hr/>
 
-<h3 align="left">🌐 Connect with Me</h3>
+<h3 align="left">Connect with Me</h3>
 
 <p align="left">
   <a href="https://github.com/Sachin28062004" target="_blank">
@@ -147,5 +134,5 @@ to solve real-world engineering problems.
 <hr/>
 
 <p align="center">
-⭐ If you like my work, consider starring my repositories!
+If you like my work, consider starring my repositories!
 </p>
