@@ -12,21 +12,24 @@ Java Full Stack Developer | Automation QA Engineer | GenAI Enthusiast
 <h3>🚀 Featured Project</h3>
 
 <p>
-<b>1. AI-Powered Test Scenario Generator</b>
-<a href="https://github.com/Sachin28062004/AI-Test-Scenario-Generator" target="_blank">
-  [Repository Link]
-</a><br/>
-FastAPI | SQLAlchemy | Angular | GenAI Flash 2.5 | Jira API
+  <b>1. RepoLens AI - AI-Powered Code Reviewer & Bug Explainer</b>
+  <a href="https://github.com/your-username/repolens.ai" target="_blank">
+    [Repository Link]
+  </a><br />
+  Spring Boot | React | JWT Auth | GitHub API | Groq API | PostgreSQL
 </p>
 
 <ul>
-  <li>Fetches Jira ticket descriptions using Jira REST APIs</li>
-  <li>Generates editable Excel-based test scenarios using GenAI</li>
-  <li>Allows users to edit, delete, and add scenarios before export</li>
-  <li>Designed for future RAG integration</li>
+  <li>Reviews individual code files and explains bugs with fixes using GenAI</li>
+  <li>Analyzes GitHub repositories and pull requests through GitHub REST APIs</li>
+  <li>Supports ZIP and multi-file uploads with file filtering and secret sanitization</li>
+  <li>Uses JWT-based authentication with protected routes and persistent sessions</li>
 </ul>
 
-<p><i>Status: Actively developed (deployment planned)</i></p>
+<p><i>Status: Development completed (repository available)</i></p>
+<p><a href="https://drive.google.com/file/d/1tLqpD4asgqZYNXl6O6HxXCvqobVG_0A2/view?usp=drive_link" target="_blank">
+[Live]
+</a></p>
 
 <p>
 <b>2. React-Based Movies Website</b>
